@@ -1,0 +1,44 @@
+[
+    {
+        "file": "C:/Users/pingy/Desktop/TPdistm/src/distance_calculator.cpp",
+        "file_last_write": 1695021701.0,
+        "definitions": [
+            {
+                "usr": "c:@F@calculateDistance#1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "calculateDistance(const int)",
+                "file": "C:/Users/pingy/Desktop/TPdistm/src/distance_calculator.cpp",
+                "line": 8,
+                "column": 8
+            },
+            {
+                "usr": "c:@S@DistanceCalculator",
+                "kind": 3,
+                "parent_name": "",
+                "name": "DistanceCalculator",
+                "file": "C:/Users/pingy/Desktop/TPdistm/src/distance_calculator.cpp",
+                "line": 21,
+                "column": 8
+            },
+            {
+                "usr": "c:@S@DistanceCalculator@F@operator()#I#I#",
+                "kind": 7,
+                "parent_name": "DistanceCalculator",
+                "name": "operator(int, int)",
+                "file": "C:/Users/pingy/Desktop/TPdistm/src/distance_calculator.cpp",
+                "line": 29,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@calculateDistancesParallel#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "calculateDistancesParallel(int, int, int)",
+                "file": "C:/Users/pingy/Desktop/TPdistm/src/distance_calculator.cpp",
+                "line": 43,
+                "column": 15
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "args": [
+        "-std=gnu++11",
+        "-ID:/ruanjian/R/R-40~1.5/include",
+        "-DNDEBUG",
+        "-nostdinc",
+        "-ID:/ruanjian/R/Rtools/rtools40/mingw64/include/c++/8.3.0",
+        "-ID:/ruanjian/R/Rtools/rtools40/mingw64/include/c++/8.3.0/x86_64-w64-mingw32",
+        "-ID:/ruanjian/R/Rtools/rtools40/mingw64/include/c++/8.3.0/backward",
+        "-ID:/ruanjian/R/Rtools/rtools40/mingw64/lib/gcc/x86_64-w64-mingw32/8.3.0/include",
+        "-ID:/ruanjian/R/Rtools/rtools40/mingw64/include",
+        "-ID:/ruanjian/R/Rtools/rtools40/mingw64/lib/gcc/x86_64-w64-mingw32/8.3.0/include-fixed",
+        "-ID:/ruanjian/R/Rtools/rtools40/mingw64/x86_64-w64-mingw32/include"
+    ],
+    "pch": "",
+    "is_cpp": true,
+    "hash": "1695021701",
+    "compiler": "14695981039346656037",
+    "rversion": "4.0.5"
+}
